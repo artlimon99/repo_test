@@ -3,7 +3,3 @@ swswfffffffffffffffff
 
 oioioooooo
 
-<<<<<<< HEAD
-xxx
-=======
->>>>>>> tmpbranch
